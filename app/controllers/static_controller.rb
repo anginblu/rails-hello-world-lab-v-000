@@ -1,5 +1,5 @@
 class StaticController < ActionController::Base
   def hello_world
-    "some_page"
+    "hello_world"
   end
 end
